@@ -1,6 +1,6 @@
 # Informations générales pour le cours
 
-Le polycopié du cours est disponible sur https://github.com/heig-tin-info/handout/releases/download/v0.3.0/handout.pdf.
+Le polycopié du cours est disponible sur https://heig-tin-info.github.io/handout/.
 
 Pour le format PDF :  https://github.com/heig-vd-tin/info-handout/releases.
 
