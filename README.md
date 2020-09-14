@@ -12,7 +12,7 @@ Lien pour le repository des TD : https://github.com/Info1-TIN-A-2020-2021/TD.
 
 - VSCode : https://code.visualstudio.com/download
 - Github Desktop : https://desktop.github.com/
-- Docker : https://docs.docker.com/get-docker/
+- Docker : https://www.docker.com/products/docker-desktop
 
 # Activités cours/labo
 | Date du cours/labo | Activité | Commentaire |
