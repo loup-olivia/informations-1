@@ -21,4 +21,5 @@ Copiez le fichier `wsp.code-workspace` dans le répertoire de travail du cours.
 # Activités cours/labo
 | Date du cours/labo | Activité | Commentaire |
 |---|---|---|
-|14-09-2020 | Présentation, installation github/docker |  |
+|14-09-2020 C | Présentation et introduction |  |
+|14-09-2020 L | labo01 - installation vscode/github/docker |  |
