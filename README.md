@@ -8,6 +8,12 @@ Exemple de règles de codage : https://google.github.io/styleguide/cppguide.html
 
 Lien pour le repository des TD : https://github.com/Info1-TIN-A-2020-2021/TD.
 
+# Outils nécessaires pour les labos
+
+- VSCode : https://code.visualstudio.com/download
+- Github Desktop : https://desktop.github.com/
+- Docker : https://docs.docker.com/get-docker/
+
 # Activités cours/labo
 | Date du cours/labo | Activité | Commentaire |
 |---|---|---|
